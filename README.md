@@ -1,7 +1,7 @@
 # chatRoom
 Read me
 
-test document are uploaded in repo file name -: **chatRoomTestDoc**
+test document are uploaded in repo file name -: **chatRoomTestDoc.docx**
 
 Step to run application 
 	**Npm install**
